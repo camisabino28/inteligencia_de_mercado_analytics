@@ -24,25 +24,42 @@ adequadas, para explicar impactos, correlações e causas em cenários econômic
 ## Conteúdos da matéria
 ### Unidade I - Business Intelligence (BI)
 ● Inteligência de mercado e Business Intelligence (BI)
+
 ● Introdução ao Big Data Analytics e Inteligência Artificial (IA)
+
 ● Extração dos dados, preparação dos dados (limpeza, enriquecimento)
+
 ● Visualização e análise de dados
+
 ● Qualidade dos dados
+
 ● Análise descritiva
+
 #### Unidade II - Contextos da Análise de Mercado
 ● Pesquisa de mercado: conceito; contexto; métodos qualitativos; métodos quantitativos;
+
 etapas; aplicação; apresentação de resultados.
+
 ● Análise do mercado, concorrentes e clientes
+
 ● Gestão de relacionamento do cliente (CRM)
+
 ● Segmentação de mercado
+
 ### Unidade III - Aplicações em cenários Econômicos e Financeiros
 ● Ferramentas tecnológicas para inteligência de mercado
+
 ● Aplicações em cenários econômicos e financeiros
+
 ● Análise preditiva
+
 ### Unidade IV - Técnicas de Ciência de Dados
 ● Aplicação de sistemas como Power BI
+
 ● Métodos de Machine Learning
+
 ● Aplicação para resolução de problemas
+
 
 ## Atividades
 
@@ -50,8 +67,8 @@ etapas; aplicação; apresentação de resultados.
 
 | Exercício | Descrição | Status |
 | :--- | :--- | :--- |
-| Ex 01 | Atividade Avaliativa 1-B1 | Em andamento |
-| Ex 02 | Atividade Avaliativa 2-B1 | ✅ Concluído |
+| Ex 01 | Atividade Avaliativa 1-B1 | ✅ Concluído |
+| Ex 02 | Atividade Avaliativa 2-B1 | - |
 
 
 </div>

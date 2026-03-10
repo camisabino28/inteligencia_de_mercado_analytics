@@ -1,0 +1,17 @@
+# Atividade Avaliativa 2 - B1 : Camila Sabino
+# Importa as bibliotecas
+import yfinance as yf
+import pandas as pd
+
+# Baixa os dados do PETR4 e exporta para excel
+df = yf.download(
+    "PETR4.SA",
+    start="2021-01-01",
+    end="2026-03-01",
+    interval="1mo",
+    auto_adjust=False
+)
+df.columns = df.columns.get_level_values(0)
+df_filtrada = df.loc[:, [ "Adj Close"]].reset_index()
+df_filtrada.to_excel("PETR4_mensal.xlsx", index=False)
+print(df_filtrada)
